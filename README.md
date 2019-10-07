@@ -24,4 +24,6 @@ cd ..
 cd ml-agents
 pip3 install -e ./
 ```
-Note: Make sure you are running the previous commands from within the virtual environment.
+The way ml-agents is installed during this method allows you to modify more of the files within the ml-agents module.
+Note: Make sure you are running the previous commands from within the virtual environment. Most of the work you do from now on will be inside of the virtual environment.
+4) 
