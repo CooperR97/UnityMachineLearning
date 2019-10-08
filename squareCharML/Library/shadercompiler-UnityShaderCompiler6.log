@@ -1,0 +1,134 @@
+Base path: /Applications/Unity/Hub/Editor/2018.3.3f1/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=12270 outsize=3417 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3117 outsize=3593 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2929 outsize=2993 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 14 at Tensor.cginc(142): use of potentially uninitialized variable (ReadonlyTensor::SafeGet)
+  api=14 insize=64076 outsize=13645 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=8577 outsize=16245 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=4482 outsize=2809 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=23621 outsize=8469 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=5377 outsize=9205 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=27408 outsize=4609 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=27408 outsize=2781 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=27408 outsize=2769 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=27408 outsize=3861 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4553 outsize=6625 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3105 outsize=3253 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3709 outsize=4589 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3117 outsize=3325 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=1765 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=1705 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=1653 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=2245 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=2329 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=2257 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=2661 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1765 outsize=1733 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1825 outsize=1797 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1753 outsize=1729 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2313 outsize=2961 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2373 outsize=3025 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2281 outsize=2969 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2737 outsize=3645 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler

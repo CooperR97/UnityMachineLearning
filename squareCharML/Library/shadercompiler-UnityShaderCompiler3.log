@@ -1,0 +1,139 @@
+Base path: /Applications/Unity/Hub/Editor/2018.3.3f1/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=12270 outsize=2617 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2697 outsize=2681 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4573 outsize=6617 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=13645 outsize=26277 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2809 outsize=4145 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=23621 outsize=4537 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=11917 outsize=22669 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=27408 outsize=3149 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=27408 outsize=2889 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=27408 outsize=2841 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=27408 outsize=2821 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=27408 outsize=3421 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=27408 outsize=3685 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3325 outsize=3781 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3205 outsize=3593 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3145 outsize=3309 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3097 outsize=3221 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3521 outsize=3933 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3705 outsize=4589 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4101 outsize=5317 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=1905 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=1801 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=2249 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=2409 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=2329 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=2257 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1873 outsize=1937 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1813 outsize=1845 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2277 outsize=2933 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2457 outsize=3165 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2405 outsize=3133 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2261 outsize=2929 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2645 outsize=3381 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
