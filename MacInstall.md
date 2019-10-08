@@ -34,6 +34,4 @@ Note: If you run into dependency version errors, try to upgrade the dependency c
 ```sh
 pip3 install --upgrade "dependency"
 ```
-5) Add the ml-agents SDK by opening the Unity Hub and clicking "Add".
-6)
 
