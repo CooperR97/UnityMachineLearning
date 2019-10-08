@@ -16,6 +16,7 @@ To deactivate the environment run:
 ```sh
 deactivate
 ```
+Note: ml-agents will only work with python 3.6 or newer versions.
 3) When you clone the repo, inside of the repo's root folder, ml-agents, there will be two folders that you will need to locate and cd into from the terminal. The two folders are *ml-agents* and *ml-agents-env*. The sequence of commands to install the module from the folders is as follows:
 ```sh
 cd ml-agents-envs
