@@ -60,10 +60,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\customGameAssets\Scripts\CameraMovement.cs" />
-    <Compile Include="Assets\customGameAssets\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\customGameAssets\Scripts\SquareCharAcademy.cs" />
-    <Compile Include="Assets\customGameAssets\Scripts\SquareCharAgent.cs" />
     <Compile Include="Assets\ML-Agents\Examples\3DBall\Scripts\Ball3DAcademy.cs" />
     <Compile Include="Assets\ML-Agents\Examples\3DBall\Scripts\Ball3DAgent.cs" />
     <Compile Include="Assets\ML-Agents\Examples\3DBall\Scripts\Ball3DDecision.cs" />
@@ -175,6 +171,10 @@
     <Compile Include="Assets\ML-Agents\Scripts\Startup.cs" />
     <Compile Include="Assets\ML-Agents\Scripts\UnityAgentsException.cs" />
     <Compile Include="Assets\ML-Agents\Scripts\Utilities.cs" />
+    <Compile Include="Assets\SquareCharGame\Scripts\CameraMovement.cs" />
+    <Compile Include="Assets\SquareCharGame\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\SquareCharGame\Scripts\SquareCharAcademy.cs" />
+    <Compile Include="Assets\SquareCharGame\Scripts\SquareCharAgent.cs" />
     <None Include="Assets\ML-Agents\Plugins\Barracuda.Core\Barracuda\Resources\Experimental.compute" />
     <None Include="Assets\ML-Agents\Plugins\Barracuda.Core\Barracuda\Resources\Conv.compute" />
     <None Include="Assets\ML-Agents\Plugins\Barracuda.Core\Barracuda\Resources\Random.cginc" />
@@ -192,19 +192,19 @@
     <None Include="Assets\ML-Agents\Plugins\Barracuda.Core\Barracuda\Resources\Dense.compute" />
     <None Include="Assets\ML-Agents\Plugins\Barracuda.Core\Barracuda\Resources\Generic.compute" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2018.3.3f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -410,32 +410,32 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>/Applications/Unity/Hub/Editor/2018.3.3f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.Protobuf">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Assets/ML-Agents/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
+    <Reference Include="System.IO.Abstractions">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Assets/ML-Agents/Plugins/System.IO.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions.TestingHelpers">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Assets/ML-Agents/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Assets/ML-Agents/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
     </Reference>
-    <Reference Include="Barracuda">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Assets/ML-Agents/Plugins/Barracuda.Core/Barracuda/Barracuda.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO.Abstractions">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Assets/ML-Agents/Plugins/System.IO.Abstractions.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Interactive.Async">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Assets/ML-Agents/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
+    <Reference Include="Google.Protobuf">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Assets/ML-Agents/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
     </Reference>
     <Reference Include="Grpc.Core">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/squareCharML/Assets/ML-Agents/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Assets/ML-Agents/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Interactive.Async">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Assets/ML-Agents/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
+    </Reference>
+    <Reference Include="Barracuda">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Assets/ML-Agents/Plugins/Barracuda.Core/Barracuda/Barracuda.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/squareCharML/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Hub/Editor/2018.3.3f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
