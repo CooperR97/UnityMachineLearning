@@ -12,6 +12,7 @@
   <img width="720" src=ScreenShots/environment.png>
 </p>
 
+Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/blob/master/squareCharML/Assets/SquareCharGame/Scripts/SquareCharAgent.cs
 
 Find the current project and progress at: https://github.com/CooperR97/UnityMachineLearning/tree/master/squareCharML
 
