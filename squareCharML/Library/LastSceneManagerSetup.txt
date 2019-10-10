@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/customGameAssets/Scenes/SampleScene.unity
+- path: Assets/SquareCharGame/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1

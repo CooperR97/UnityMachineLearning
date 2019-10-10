@@ -1,0 +1,187 @@
+Base path: /Applications/Unity/Hub/Editor/2018.3.3f1/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=12270 outsize=2989 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=12270 outsize=2737 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3117 outsize=3705 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4573 outsize=6617 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=8577 outsize=16245 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=4482 outsize=2809 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=23621 outsize=3913 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4537 outsize=8145 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 14 at Tensor.cginc(128): use of potentially uninitialized variable (ReadonlyTensor::SafeGet)
+  api=14 insize=27408 outsize=4489 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=27408 outsize=2781 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=27408 outsize=3421 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=27408 outsize=2801 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4553 outsize=6625 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3085 outsize=3217 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3709 outsize=4589 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3117 outsize=3325 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=1665 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=1725 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=1653 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=2245 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=2329 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=2257 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=20360 outsize=2661 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1765 outsize=1733 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1753 outsize=1729 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2317 outsize=2961 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2457 outsize=3165 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2333 outsize=2997 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2325 outsize=2829 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2737 outsize=3645 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+
+Quitting shader compiler process
