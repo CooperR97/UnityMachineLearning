@@ -19,5 +19,5 @@ Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/
   <img width="720" src=ScreenShots/environment2.png>
 </p>
 
-
+d
 Adapted and modified from: https://github.com/Unity-Technologies/ml-agents
