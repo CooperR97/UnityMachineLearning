@@ -84,19 +84,19 @@
     <Compile Include="Assets\ML-Agents\Editor\Tests\TensorUtilsTest.cs" />
     <Compile Include="Assets\ML-Agents\Editor\Tests\UtilitiesTests.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2018.3.3f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -332,38 +332,38 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.Advertisements">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.Purchasing">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.Protobuf">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Assets/ML-Agents/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
+    <Reference Include="System.IO.Abstractions">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Assets/ML-Agents/Plugins/System.IO.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions.TestingHelpers">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Assets/ML-Agents/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Assets/ML-Agents/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
     </Reference>
-    <Reference Include="Barracuda">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Assets/ML-Agents/Plugins/Barracuda.Core/Barracuda/Barracuda.dll</HintPath>
-    </Reference>
-    <Reference Include="System.IO.Abstractions">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Assets/ML-Agents/Plugins/System.IO.Abstractions.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Interactive.Async">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Assets/ML-Agents/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
+    <Reference Include="Google.Protobuf">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Assets/ML-Agents/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
     </Reference>
     <Reference Include="Grpc.Core">
-      <HintPath>/Users/cooperredfern/Documents/UnityProjects/EndlessRunnerSeries/MLLaneSmash2D/Assets/ML-Agents/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Assets/ML-Agents/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Interactive.Async">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Assets/ML-Agents/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
+    </Reference>
+    <Reference Include="Barracuda">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Assets/ML-Agents/Plugins/Barracuda.Core/Barracuda/Barracuda.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Advertisements">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>/Users/cooperredfern/Documents/GitHub/UnityMachineLearning/MLLaneSmash2D/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>/Applications/Unity/Hub/Editor/2018.3.3f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
