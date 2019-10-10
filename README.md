@@ -16,7 +16,7 @@ Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/
 
 ### Study #2 - MLLaneSmash2D:
 <p align="center">
-  <img width="720" src=ScreenShots/environment2.png>
+  <img width="720" src=ScreenShots/enivornment2.png>
 </p>
 
 d
