@@ -14,6 +14,10 @@
 
 Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/blob/master/squareCharML/Assets/SquareCharGame/Scripts/SquareCharAgent.cs
 
-Find the current project and progress at: https://github.com/CooperR97/UnityMachineLearning/tree/master/squareCharML
+### Study #2 - MLLaneSmash2D:
+<p align="center">
+  <img width="720" src=ScreenShots/environment2.png>
+</p>
+
 
 Adapted and modified from: https://github.com/Unity-Technologies/ml-agents
