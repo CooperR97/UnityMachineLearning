@@ -15,7 +15,7 @@
 <p align="center">
   <img width="360" src=ScreenShots/longTrain1.png>
 </p>
-HyperParameters for the first train:
+<p align="center">HyperParameters for the first train:</p>
 <p align="center">
   <img width="360" src=ScreenShots/HPLongTrain1.png>
 </p>
