@@ -25,6 +25,7 @@ Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/
 <p align="center">
   <img width="720" src=ScreenShots/enivornment2.png>
 </p>
+Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/blob/master/MLLaneSmash2D/Assets/Script/LaneAgent.cs
 
 
 Adapted and modified from: https://github.com/Unity-Technologies/ml-agents
