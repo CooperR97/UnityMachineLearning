@@ -17,15 +17,15 @@
 </p>
 <p align="center">HyperParameters for the first train:</p>
 <p align="center">
-  <img width="360" src=ScreenShots/HPLongTrain1.png>
+  <img width="180" src=ScreenShots/HPLongTrain1.png>
 </p>
 <p>After the successful first train, I decided to turn the batch_size down to 10 and the buffer_size down to 100 after reading about PPO parameters from: https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-PPO.md. I also decreased the number of hidden layers to 1. This resulted in increased performance.</p>
 <p align="center">
-  <img width="360" src=ScreenShots/longTrain1.png>
+  <img width="360" src=ScreenShots/longTrain2.png>
 </p>
 <p align="center">HyperParameters for the first train:</p>
 <p align="center">
-  <img width="360" src=ScreenShots/HPLongTrain1.png>
+  <img width="180" src=ScreenShots/HPLongTrain2.png>
 </p>
 <p>The resulting value function gives the agent the following behvior:</p>
 
