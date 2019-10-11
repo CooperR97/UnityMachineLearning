@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{F0E9A226-D0E7-B426-4AD6-750CB8F2C528}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/LaneAgent.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Player.cs">
     <Files>
       <File FileName="Assets/Script/LaneAgent.cs" Line="91" Column="26" />
       <File FileName="Assets/Script/Detect.cs" />
@@ -7,13 +7,12 @@
       <File FileName="Assets/Script/Detect2.cs" />
       <File FileName="Assets/Script/Detect3.cs" />
       <File FileName="Assets/Script/Obstacle.cs" />
-      <File FileName="../../../GitHub/UnityMachineLearning/squareCharML/Assets/customGameAssets/Scripts/SquareCharAgent.cs" Line="1" Column="1" NotebookId="1" />
       <File FileName="Assets/Script/Player.cs" Line="30" Column="105" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c8534541-d038-42f5-8ac0-00e39d7c5059" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cd3ec3de-275c-4091-a160-9c03bee5940a" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
