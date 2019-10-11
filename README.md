@@ -11,7 +11,7 @@
 <p align="center">
   <img width="720" src=ScreenShots/environment.png>
 </p>
-<p>So after getting multiple failing results for a short period, I changed the default number of steps to 200,000 and started to see a trend upwards in reward. The trend was small, but it was enough to see that it was in fact trending upwards.</p>
+<p>After getting multiple failing results for a short period, I changed the default number of steps to 200,000 and started to see a trend upwards in reward. The trend was small, but it was enough to see that it was in fact trending upwards.</p>
 <p align="center">
   <img width="360" src=ScreenShots/longTrain1.png>
 </p>
@@ -19,7 +19,7 @@
 <p align="center">
   <img width="360" src=ScreenShots/HPLongTrain1.png>
 </p>
-<p>So after getting multiple failing results for a short period, I changed the default number of steps to 200,000 and started to see a trend upwards in reward. The trend was small, but it was enough to see that it was in fact trending upwards.</p>
+<p>After the successful first train, I decided to turn the batch_size down to 10 and the buffer_size down to 100 after reading about PPO parameters from: https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-PPO.md. I also decreased the number of hidden layers to 1. This resulted in increased performance.</p>
 <p align="center">
   <img width="360" src=ScreenShots/longTrain1.png>
 </p>
