@@ -28,7 +28,7 @@ HyperParameters for the first train:
   <img width="360" src=ScreenShots/HPLongTrain1.png>
 </p>
 <p>The resulting value function gives the agent the following behvior:</p>
-![](/ScreenShots/result.gif)
+![](result.gif)
 Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/blob/master/squareCharML/Assets/SquareCharGame/Scripts/SquareCharAgent.cs
 
 ### Study #2 - MLLaneSmash2D (work in progress):
