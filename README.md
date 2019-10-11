@@ -12,6 +12,11 @@
   <img width="720" src=ScreenShots/environment.png>
 </p>
 
+<p float="left">
+  <img src="ScreenShots/HPLongTrain.png" width="360" />
+  <img src="ScreenShots/longTrain1.png" width="360" /> 
+</p>
+
 Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/blob/master/squareCharML/Assets/SquareCharGame/Scripts/SquareCharAgent.cs
 
 ### Study #2 - MLLaneSmash2D (work in progress):
