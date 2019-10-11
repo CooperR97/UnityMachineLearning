@@ -31,8 +31,7 @@ HyperParameters for the first train:
 
 ![](result.gif)
 
-<p>Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/blob/master/squareCharML/Assets/SquareCharGame/Scripts/SquareCharAgent.cs
-</p>
+<p>Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/blob/master/squareCharML/Assets/SquareCharGame/Scripts/SquareCharAgent.cs</p>
 ### Study #2 - MLLaneSmash2D (work in progress):
 <p>I have created another 2D-scene where the agent is circular character and the targets are enemy boxes that are coming towards the agent in random patterns. The configuration of the environment is the following:</p>
 <p>Goal: survive the environment without gitting hit by an enemy</p>
