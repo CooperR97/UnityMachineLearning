@@ -11,10 +11,11 @@
 <p align="center">
   <img width="720" src=ScreenShots/environment.png>
 </p>
-
-<p float="center">
-  <img src="ScreenShots/HPLongTrain1.png" width="360" />
-  <img src="ScreenShots/longTrain1.png" width="360" /> 
+<p align="center">
+  <img width="360" src=ScreenShots/longTrain1.png>
+</p>
+<p align="center">
+  <img width="360" src=ScreenShots/HPLongTrain1.png>
 </p>
 
 Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/blob/master/squareCharML/Assets/SquareCharGame/Scripts/SquareCharAgent.cs
