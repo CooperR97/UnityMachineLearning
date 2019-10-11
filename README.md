@@ -12,8 +12,8 @@
   <img width="720" src=ScreenShots/environment.png>
 </p>
 
-<p float="left">
-  <img src="ScreenShots/HPLongTrain.png" width="360" />
+<p float="center">
+  <img src="ScreenShots/HPLongTrain1.png" width="360" />
   <img src="ScreenShots/longTrain1.png" width="360" /> 
 </p>
 
