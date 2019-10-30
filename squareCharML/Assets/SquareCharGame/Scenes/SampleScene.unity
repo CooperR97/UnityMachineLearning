@@ -302,7 +302,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!81 &519420029
 AudioListener:
   m_ObjectHideFlags: 0
@@ -489,13 +489,12 @@ MonoBehaviour:
     broadcastingBrains:
     - {fileID: 11400000, guid: f79f72dd791ba48dbb50be2ee3afecbe, type: 2}
     - {fileID: 11400000, guid: a26417af99f174d9a9724a6f63b132a3, type: 2}
-    m_BrainsToControl:
-    - {fileID: 11400000, guid: f79f72dd791ba48dbb50be2ee3afecbe, type: 2}
+    m_BrainsToControl: []
   m_TrainingConfiguration:
     width: 80
     height: 80
     qualityLevel: 1
-    timeScale: 100
+    timeScale: 40
     targetFrameRate: -1
   m_InferenceConfiguration:
     width: 1280

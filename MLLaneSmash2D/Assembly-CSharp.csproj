@@ -181,6 +181,7 @@
     <Compile Include="Assets\Script\Obstacle.cs" />
     <Compile Include="Assets\Script\Player.cs" />
     <Compile Include="Assets\Script\ScoreManager.cs" />
+    <Compile Include="Assets\Script\ScreenState.cs" />
     <Compile Include="Assets\Script\Spawner.cs" />
     <Compile Include="Assets\Script\SpawnPoint.cs" />
     <None Include="Assets\ML-Agents\Plugins\Barracuda.Core\Barracuda\Resources\Experimental.compute" />

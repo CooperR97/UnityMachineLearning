@@ -13,7 +13,7 @@ public class Detect2 : MonoBehaviour
         if (collision.CompareTag("Obstacle"))
         {
             isEnem = 1;
-            Lane.enemState.y = isEnem;
+            Lane.enemPos.y = isEnem;
         }
 
     }
@@ -23,7 +23,7 @@ public class Detect2 : MonoBehaviour
         if (collision.CompareTag("Obstacle"))
         {
             isEnem = 0;
-            Lane.enemState.y = isEnem;
+            Lane.enemPos.y = isEnem;
         }
     }
 }

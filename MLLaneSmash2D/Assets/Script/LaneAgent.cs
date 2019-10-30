@@ -13,18 +13,50 @@ public class LaneAgent : Agent
     public float maxHeight;
     public float minHeight;
 
+    public float timeBetweenDecisionsAtInference;
+    private float timeSinceDecision;
+
     public int health = 3;
 
     public int prevHealth = 3;
-    
 
+    public Lane2DAcademy academy;
     public Text healthDisplay;
 
-    public Vector3 enemState;
+    public Vector3 enemPos;
+    public Vector3 enemPos2;
+    public Vector3 enemPos3;
+
+    public bool gotRew = false;
+
+    public void FixedUpdate()
+    {
+        WaitTimeInference();
+    }
+
+    private void WaitTimeInference()
+    {
+        if (!academy.GetIsInference())
+        {
+            RequestDecision();
+        }
+        else
+        {
+            if (timeSinceDecision >= timeBetweenDecisionsAtInference)
+            {
+                timeSinceDecision = 0f;
+                RequestDecision();
+            }
+            else
+            {
+                timeSinceDecision += Time.fixedDeltaTime;
+            }
+        }
+    }
 
     public override void AgentReset()
     {
-        health = 3;
+        health = 10;
     }
 
     public override void CollectObservations()
@@ -32,7 +64,8 @@ public class LaneAgent : Agent
         //player position
         AddVectorObs(this.transform.position);
         //a 3 vector position based on if the enemy is at the start of the screen
-        AddVectorObs(enemState);
+        AddVectorObs(enemPos);
+
     }
 
     public override void AgentAction(float[] vectorAction, string textAction)
@@ -70,7 +103,7 @@ public class LaneAgent : Agent
                 transform.position = new Vector2(-7.5f, 0f);
             }
         
-        Debug.Log(dir);
+        //Debug.Log(dir);
 
         //transform.position = targetPos;
 
@@ -78,18 +111,21 @@ public class LaneAgent : Agent
 
         if (health < prevHealth)
         {
-            AddReward(-2);
+            AddReward(-1f);
             prevHealth = health;
+            Done();
         }
         if(health <= 0f)
         {
-            AddReward(-5f);
-            Done();
+            AddReward(-10f);
+            
         }
         else
         {
-            AddReward(0.02f);
+            AddReward(0.01f);
         }
+
+        Debug.Log(enemPos);
 
     }
 }

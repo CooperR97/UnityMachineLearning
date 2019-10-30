@@ -178,7 +178,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 251586662}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.5, y: 3, z: 0}
+  m_LocalPosition: {x: -5.38, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -250,7 +250,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 372011533}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.5, y: -3, z: 0}
+  m_LocalPosition: {x: -5.38, y: -3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -494,16 +494,21 @@ MonoBehaviour:
     agentRenderTextures: []
     maxStep: 0
     resetOnDone: 1
-    onDemandDecision: 0
+    onDemandDecision: 1
     numberOfActionsBetweenDecisions: 1
   yInc: 3
   speed: 100
   maxHeight: 3
   minHeight: -3
+  timeBetweenDecisionsAtInference: 0.2
   health: 3
   prevHealth: 3
+  academy: {fileID: 1044232056}
   healthDisplay: {fileID: 2021911271}
-  enemState: {x: 0, y: 0, z: 0}
+  enemPos: {x: 0, y: 0, z: 0}
+  enemPos2: {x: 0, y: 0, z: 0}
+  enemPos3: {x: 0, y: 0, z: 0}
+  gotRew: 0
 --- !u!1 &817235062
 GameObject:
   m_ObjectHideFlags: 0
@@ -570,7 +575,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 817235062}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.5, y: 0, z: 0}
+  m_LocalPosition: {x: -5.38, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
