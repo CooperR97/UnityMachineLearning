@@ -33,9 +33,17 @@
 
 Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/blob/master/squareCharML/Assets/SquareCharGame/Scripts/SquareCharAgent.cs
 ### Study #2 - MLLaneSmash (work in progress):
+<p>The goal of this game is to get to the end of the level without hitting an obstacle.</p>
+<p>The grey blocks: obstacles</p>
+<p>Orange square: the player char</p>
+<p>Red outline: level boundaries</p>
+<p>Observations: The player position (Vector3), RayPerceptions (For more on this visit: https://github.com/Unity-Technologies/ml-agents/blob/3d7c4b8d3c1ad17070308b4e06bb57d4a80f9a0c/UnitySDK/Assets/ML-Agents/Examples/SharedAssets/Scripts/RayPerception3D.cs</p>
+<p>Action Space: -1 or 1 corresponding to move left or right</p>
 <p align="center">
   <img width="360" src=LaneSmash.png>
 </p>
+![](cubeTrain.gif)
+<p>Still working to have a general model that makes decisions based on obstacles rather than memorizing a path on a certain level</p>
 
 ### Study #3 - MLLaneSmash2D (work in progress):
 <p>I have created another 2D-scene where the agent is circular character and the targets are enemy boxes that are coming towards the agent in random patterns. The configuration of the environment is the following:</p>
