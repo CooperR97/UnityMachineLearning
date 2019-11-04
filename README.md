@@ -42,7 +42,7 @@ Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/
 <p align="center">
   <img width="360" src=LaneSmash.png>
 </p>
-![](cubeTrain.gif)
+![](cubeTrain. gif)
 <p>Still working to have a general model that makes decisions based on obstacles rather than memorizing a path on a certain level</p>
 
 ### Study #3 - MLLaneSmash2D (work in progress):
