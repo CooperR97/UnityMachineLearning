@@ -6,7 +6,7 @@ public class Detect1 : MonoBehaviour
 {
     public int isEnem;
 
-    public LaneAgent Lane;
+    public Lane2DAgent Lane;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

@@ -1,17 +1,16 @@
 ﻿<Properties StartupConfiguration="{F0E9A226-D0E7-B426-4AD6-750CB8F2C528}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/LaneAgent.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LaneSmash/Scripts/LaneAgent.cs">
     <Files>
-      <File FileName="Assets/Script/LaneAgent.cs" Line="116" Column="20" />
-      <File FileName="Assets/Script/Detect1.cs" Line="11" Column="34" />
-      <File FileName="Assets/Script/Detect2.cs" Line="26" Column="27" />
-      <File FileName="Assets/Script/Detect3.cs" Line="11" Column="34" />
-      <File FileName="Assets/Script/Obstacle.cs" Line="1" Column="1" />
-      <File FileName="../../ml-agents-master/UnitySDK/Assets/ML-Agents/Examples/Basic/Scripts/BasicAgent.cs" Line="11" Column="37" NotebookId="1" />
+      <File FileName="Assets/LaneSmash/Scripts/LaneAgent.cs" Line="37" Column="55" />
+      <File FileName="Assets/ML-Agents/Examples/PushBlock/Scripts/PushBlockAcademy.cs" Line="1" Column="1" />
+      <File FileName="Assets/ML-Agents/Examples/PushBlock/Scripts/PushBlockAcademy.cs" Line="1" Column="1" />
+      <File FileName="Assets/ML-Agents/Examples/SharedAssets/Scripts/RayPerception3D.cs" Line="1" Column="1" />
+      <File FileName="Assets/ML-Agents/Examples/PushBlock/Scripts/PushAgentBasic.cs" Line="84" Column="10" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e902577c-251a-4c9c-a48e-cc632c2cdb5b" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="17ba3ee7-d67a-48d3-a544-c96c3b3a4556" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

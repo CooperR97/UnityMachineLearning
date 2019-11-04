@@ -60,6 +60,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\LaneSmash\Scripts\Credits.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\cubeAgent.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\EndTrigger.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\Explosion.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\followPlayer.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\GameManager.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\gun.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\LaneAgent.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\LaneSmashAcademy.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\LevelComplete.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\Menu.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\playerCollision.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\PowerUpCollision.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\Score.cs" />
+    <Compile Include="Assets\LaneSmash\Scripts\Target.cs" />
     <Compile Include="Assets\ML-Agents\Examples\3DBall\Scripts\Ball3DAcademy.cs" />
     <Compile Include="Assets\ML-Agents\Examples\3DBall\Scripts\Ball3DAgent.cs" />
     <Compile Include="Assets\ML-Agents\Examples\3DBall\Scripts\Ball3DDecision.cs" />
@@ -177,7 +193,7 @@
     <Compile Include="Assets\Script\Detect2.cs" />
     <Compile Include="Assets\Script\Detect3.cs" />
     <Compile Include="Assets\Script\Lane2DAcademy.cs" />
-    <Compile Include="Assets\Script\LaneAgent.cs" />
+    <Compile Include="Assets\Script\Lane2DAgent.cs" />
     <Compile Include="Assets\Script\Obstacle.cs" />
     <Compile Include="Assets\Script\Player.cs" />
     <Compile Include="Assets\Script\ScoreManager.cs" />

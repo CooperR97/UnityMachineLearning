@@ -19,7 +19,7 @@ public class Obstacle : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             Instantiate(effect, transform.position, Quaternion.identity);
-            collision.GetComponent<LaneAgent>().health -= damage;
+            collision.GetComponent<Lane2DAgent>().health -= damage;
             Destroy(gameObject);
         }
     }
