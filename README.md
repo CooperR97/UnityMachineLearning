@@ -33,7 +33,9 @@
 
 Agent script can be found at: https://github.com/CooperR97/UnityMachineLearning/blob/master/squareCharML/Assets/SquareCharGame/Scripts/SquareCharAgent.cs
 ### Study #2 - MLLaneSmash (work in progress):
-
+<p align="center">
+  <img width="360" src=LaneSmash.png>
+</p>
 
 ### Study #3 - MLLaneSmash2D (work in progress):
 <p>I have created another 2D-scene where the agent is circular character and the targets are enemy boxes that are coming towards the agent in random patterns. The configuration of the environment is the following:</p>
